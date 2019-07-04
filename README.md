@@ -8,7 +8,7 @@ This is a personal experiment to publish this utility.
 Cheers!
 
 ## Usage 
-```javscript
+```javascript
 const  rb = require('ref-read-bytes);
 
 // number of bytes to read
