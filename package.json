@@ -1,6 +1,6 @@
 {
-  "name": "ref-read-bytes",
-  "version": "0.0.1",
+  "name": "@arunwij/read-bytes",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
