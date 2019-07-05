@@ -9,7 +9,9 @@ const  rb = require('@arunwij/read-bytes');
 const length = 1000;
 
 // this should be memory address
-const pointer;
+// check node-ref for accessing memory addresses
+const pointer = < memory address >;
+
 
 rb.readBytes(pointer, length);
 ```
